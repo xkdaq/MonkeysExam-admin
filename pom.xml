@@ -10,7 +10,7 @@
     </parent>
     <groupId>cn.mryin</groupId>
     <artifactId>monkeysexam</artifactId>
-    <version>1.2</version>
+    <version>1.3</version>
     <name>drive_exam</name>
     <description>drive_exam project</description>
     <properties>
